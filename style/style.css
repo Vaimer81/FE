@@ -1,0 +1,33 @@
+body {
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #a6aaad;
+}
+.header {
+    text-align: center;
+    color: rgb(236, 9, 119);
+}
+ 
+.text_1 {
+    background-color: #34495E ;
+   border-radius: 20px;
+   padding: 21px;  
+}
+ a{
+text-decoration: none;
+color:black;
+ }
+    
+ 
+
+.text_2{
+    background-color: #34495E ;
+   border-radius: 20px;
+   padding: 21px;
+}
+.text_3{
+    background-color: #34495E ;
+   border-radius: 20px;
+   padding: 21px;
+}
